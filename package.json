@@ -1,6 +1,7 @@
 {
   "name": "nosuchapp.github.io",
   "version": "0.1.0",
+  "homepage": "https://polszewsky.github.io/nosuchapp.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -15,6 +16,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "dayjs": "^1.11.10",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.1.3",
